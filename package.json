@@ -1,12 +1,12 @@
 {
-  "name": "wixua",
+  "name": "zorro",
   "version": "1.0.0",
-  "description": "V14 Oto cevap sistemi",
+  "description": "V14 gelişmiş zorro bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "bnewixua",
+  "author": "zorro",
   "license": "MIT",
   "dependencies": {
     "@discordjs/rest": "^1.1.0",
